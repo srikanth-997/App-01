@@ -11,6 +11,7 @@ public class TestClass {
                 int b=20;
                 int res=a+b;
                 System.out.println(res);
+                System.out.println("Hi");
                
 
 	}
